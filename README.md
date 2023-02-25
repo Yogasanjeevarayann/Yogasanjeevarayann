@@ -35,7 +35,7 @@
   </br>
   <img src="https://img.icons8.com/color/256/adobe-photoshop--v2.png" alt="#" width="60" height="60"/>
   <img src="https://img.icons8.com/color/256/adobe-illustrator.png" alt="#" width="60" height="60"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/svg-1.svg" alt="#" width="50" height="50"/>
+  <img src="https://seeklogo.com/images/S/svg-logo-A7D0801A11-seeklogo.com.png" alt="#" width="50" height="50"/>
   <img src="https://img.icons8.com/color/256/figma.png" alt="#" width="60" height="60"/>
   
 </a></p>
