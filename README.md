@@ -16,11 +16,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
   <p align="center">
-  <img src="https://icons8.com/icon/40670/c-programming" alt="#" width="60" height="60"/>
+  <img src="https://icons8.com/icon/40670/c-programming.png" alt="#" width="60" height="60"/>
   <img src="https://icons8.com/icon/40669/c%2B%2B" alt="#" width="60" height="60"/>
-  <img src="https://icons8.com/icon/20909/html-5" alt="#" width="60" height="60"/>
-  <img src="https://icons8.com/icon/21278/css3" alt="#" width="60" height="60"/>
-  <img src="https://icons8.com/icon/108784/javascript" alt="#" width="60" height="60"/>
+  <img src="https://icons8.com/icon/20909/html-5.png" alt="#" width="60" height="60"/>
+  <img src="https://icons8.com/icon/21278/css3.png" alt="#" width="60" height="60"/>
+  <img src="https://icons8.com/icon/108784/javascript.png" alt="#" width="60" height="60"/>
   </br>
   </br>
   <img src="" alt="#" width="60" height="60"/>
