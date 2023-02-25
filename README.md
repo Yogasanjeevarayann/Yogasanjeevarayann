@@ -23,7 +23,7 @@
   <img src="https://img.icons8.com/color/256/javascript.png" alt="#" width="60" height="60"/>
   </br>
   </br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="#" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="#" width="70" height="60"/>
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="#" width="60" height="60"/>
   </br>
   </br>
