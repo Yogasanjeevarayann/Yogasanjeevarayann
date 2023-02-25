@@ -28,6 +28,14 @@
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="#" width="60" height="60"/>
   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/j8z02ssteea4zj1k1nyz" alt="#" width="60" height="60"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="#" width="60" height="60"/>
+  </br>
+  </br>
+  <img src="https://img.icons8.com/color/256/adobe-photoshop--v2.png" alt="#" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/256/adobe-illustrator.png" alt="#" width="60" height="60"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/svg-1.svg" alt="#" width="60" height="60"/>
+  <img src="" alt="#" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/256/figma.png" alt="#" width="60" height="60"/>
+  
 </a></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogasanjeevarayann&show_icons=true&locale=en" alt="yogasanjeevarayann" /></p>
 
