@@ -27,7 +27,7 @@
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-shadow-tal-revivo.png" alt="#" width="60" height="60"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="#" width="60" height="60"/>
   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/j8z02ssteea4zj1k1nyz" alt="#" width="60" height="60"/>
-  <img src="" alt="#" width="60" height="60"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="#" width="60" height="60"/>
 </a></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogasanjeevarayann&show_icons=true&locale=en" alt="yogasanjeevarayann" /></p>
 
