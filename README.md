@@ -23,8 +23,8 @@
   <img src="https://img.icons8.com/color/256/javascript.png" alt="#" width="60" height="60"/>
   </br>
   </br>
-  <img src="" alt="#" width="60" height="60"/>
-  <img src="" alt="#" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/256/mysql-logo.png" alt="#" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/256/nodejs.png" alt="#" width="60" height="60"/>
   <img src="" alt="#" width="60" height="60"/>
   <img src="" alt="#" width="60" height="60"/>
   <img src="" alt="#" width="60" height="60"/>
