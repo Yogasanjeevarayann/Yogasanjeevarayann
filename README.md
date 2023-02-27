@@ -46,6 +46,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogasanjeevarayann&show_icons=true&locale=en" alt="yogasanjeevarayann" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogasanjeevarayann&" alt="yogasanjeevarayann" /></p>
-<p align="center"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=yogasanjeevarayann&" alt="yogasanjeevarayann](https://github-readme-stats.vercel.app/api/top-langs/ username=yogasanjeevarayann&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog)" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogasanjeevarayann&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog" /></p>
 
 
