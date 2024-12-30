@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogasanjeevarayan    N  </h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h2 align="center">A passionate Android developer from India</h2>
 <!--<p align="center"> <img src="https://stringfixer.com/files/197806252.jpg" width="600" height="600" /> </p>-->
 
 
