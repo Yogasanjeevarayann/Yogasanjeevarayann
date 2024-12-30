@@ -23,20 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
   <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504881.png" alt="#" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" alt="#" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/256/html-5.png" alt="#" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/256/css3.png" alt="#" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/256/javascript.png" alt="#" width="60" height="60"/> 
-  </br>
-  </br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="#" width="70" height="60"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="#" width="60" height="60"/>
-  </br>
-  </br>
-  <img src="https://img.icons8.com/color/256/mysql-logo.png" alt="#" width="60" height="60"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-shadow-tal-revivo.png" alt="#" width="60" height="60"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="#" width="60" height="60"/>
-  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/j8z02ssteea4zj1k1nyz" alt="#" width="60" height="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="#" width="60" height="60"/>
   </br>
   </br>
   <img src="https://img.icons8.com/color/256/adobe-photoshop--v2.png" alt="#" width="60" height="60"/>
