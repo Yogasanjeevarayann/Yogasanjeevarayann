@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
   <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504881.png" alt="#" width="60" height="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504881.png" alt="#" width="180" height="180"/>
   </br>
   </br>
   <img src="https://img.icons8.com/color/256/adobe-photoshop--v2.png" alt="#" width="60" height="60"/>
