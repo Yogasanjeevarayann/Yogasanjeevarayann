@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
   <p align="center">
-  <img src="https://img.icons8.com/color/256/c-programming.png" alt="#" width="60" height="60"/>
+  <img src="[https://img.icons8.com/color/256/c-programming.png](https://img.icons8.com/?size=100&id=P2AnGyiJxMpp&format=png&color=000000)" alt="#" width="60" height="60"/>
   <img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" alt="#" width="60" height="60"/>
   <img src="https://img.icons8.com/color/256/html-5.png" alt="#" width="60" height="60"/>
   <img src="https://img.icons8.com/color/256/css3.png" alt="#" width="60" height="60"/>
